@@ -1,4 +1,4 @@
-#### Email Scraper
+### Email Scraper
 
 ## Description
 The Email Scraper is a Python3 tool designed for extracting email addresses from websites. It can be used for various purposes such as lead generation, email marketing, and data collection.
